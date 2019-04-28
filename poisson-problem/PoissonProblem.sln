@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jacobi", "Jacobi\Jacobi.vcxproj", "{960299FD-C588-4222-9A59-5655CB5469B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GaussSeidel", "GaussSeidel\GaussSeidel.vcxproj", "{B239C432-BAB8-4481-95D5-1B677068AAD6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sequential", "Sequential\Sequential.vcxproj", "{DD4670C0-0314-4A6E-AC11-792F50B66880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960299FD-C588-4222-9A59-5655CB5469B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{960299FD-C588-4222-9A59-5655CB5469B5}.Debug|Win32.Build.0 = Debug|Win32
+		{960299FD-C588-4222-9A59-5655CB5469B5}.Release|Win32.ActiveCfg = Release|Win32
+		{960299FD-C588-4222-9A59-5655CB5469B5}.Release|Win32.Build.0 = Release|Win32
+		{B239C432-BAB8-4481-95D5-1B677068AAD6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B239C432-BAB8-4481-95D5-1B677068AAD6}.Debug|Win32.Build.0 = Debug|Win32
+		{B239C432-BAB8-4481-95D5-1B677068AAD6}.Release|Win32.ActiveCfg = Release|Win32
+		{B239C432-BAB8-4481-95D5-1B677068AAD6}.Release|Win32.Build.0 = Release|Win32
+		{DD4670C0-0314-4A6E-AC11-792F50B66880}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD4670C0-0314-4A6E-AC11-792F50B66880}.Debug|Win32.Build.0 = Debug|Win32
+		{DD4670C0-0314-4A6E-AC11-792F50B66880}.Release|Win32.ActiveCfg = Release|Win32
+		{DD4670C0-0314-4A6E-AC11-792F50B66880}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
